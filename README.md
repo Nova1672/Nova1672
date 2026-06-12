@@ -108,20 +108,6 @@ An AI-powered placement preparation platform designed for engineering students.
 
 React • Node.js • FastAPI • MongoDB • Redis • GPT-4o
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📊 Most Used Languages
 
 <p align="center">
