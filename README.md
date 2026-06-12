@@ -108,16 +108,6 @@ An AI-powered placement preparation platform designed for engineering students.
 
 React • Node.js • FastAPI • MongoDB • Redis • GPT-4o
 
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🏆 Achievements
 
 🏅 Data Science Intern – Prodigy Infotech
